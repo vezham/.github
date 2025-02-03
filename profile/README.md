@@ -9,8 +9,6 @@
 </p>
 <hr>
 
-# Welcome to Vezham
-
 ## Getting Started
 
 See [guidelines](https://storybook.vezham.com/?path=/docs/guidelines-get-started--overview) to get started.
